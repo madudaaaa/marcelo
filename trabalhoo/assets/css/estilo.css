@@ -1,0 +1,61 @@
+#cancelar{
+    background-color: rgb(230, 36, 36);
+    color: aliceblue;
+    border: none;
+    padding: 5px;
+    width: 80px;
+}
+
+#salvar{
+    background-color: rgb(98, 150, 20);
+    color: aliceblue;
+    border: none;
+    padding: 5px;
+    width: 80px;
+    
+}
+
+body{
+    background-color: #20B2AA;
+}
+
+#bah{
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+}
+
+#boo{
+    background-color: rgba(27, 27, 221, 0.61);
+    color: aliceblue;
+}
+#momo{
+    border: none;
+}
+
+#muu{
+    text-align: center;
+}
+
+#boi{
+    background-color: black;
+    color: aliceblue;
+}
+
+#vaca{
+    background-color: rgba(0, 0, 0, 0.514);
+    border-color: black;
+}
+
+#nini{
+    color: aliceblue;
+}
+
+#nino{
+    width: 70px;
+    color: aliceblue;
+}
+
+#nonu{
+    color: aliceblue;
+}
